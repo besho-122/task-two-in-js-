@@ -1,0 +1,31 @@
+.button {
+   color: rgb(255, 255, 255); 
+   background-color: blue;
+}
+table
+{
+    width: 40%;
+    text-align: center;
+    color: #000;
+    background-color: rgb(255, 255, 255);
+    border-collapse: collapse;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    border: none;
+    outline: none;
+  
+   
+
+}
+
+body{
+    background-color: lightgray;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    
+}
